@@ -19,11 +19,11 @@ In order to run this project, follow the steps as below:
 1. The [ratings page](http://127.0.0.1:5000/movies/ratings/) `/movies/ratings/` shows some movie titles and their IMDB ratings.
     - This view creates some `Movie` instances and use them to show the titles and ratings in the html page.
 
-# Dev Notes
+# Side Notes
 
 - The image `SI507_movies_database_plan.png` shows our database diagram, which contains 5 tables representing some data from our dataset.
-- Flask view: at least one view should create Movie()
 
 # Reference
 
 - [This repo url](https://github.com/rivernews/Project-02-repo-si507)
+- Added collaborators `si507w19instructors` to this repo.
