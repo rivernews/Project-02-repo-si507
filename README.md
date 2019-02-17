@@ -15,8 +15,8 @@ In order to run this project, follow the steps as below:
 
 ## What the app does
 
-1. The homepage `/` will show the number of movies we have in our dataset.
-1. The ratings page `/movies/ratings/` shows some movie titles and their IMDB ratings.
+1. The [homepage](http://127.0.0.1:5000/) `/` will show the number of movies we have in our dataset.
+1. The [ratings page](http://127.0.0.1:5000/movies/ratings/) `/movies/ratings/` shows some movie titles and their IMDB ratings.
     - This view creates some `Movie` instances and use them to show the titles and ratings in the html page.
 
 # Dev Notes
